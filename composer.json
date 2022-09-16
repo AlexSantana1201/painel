@@ -1,0 +1,16 @@
+{
+    "name": "alexf/painel",
+    "authors": [
+        {
+            "name": "Alex Santana",
+            "email": "analistaalexsantana@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "app\\":"app/"
+        }
+    }
+}
